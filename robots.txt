@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://94fbrcapcutpro.github.io/fbr94-CapCut/sitemap.xml
+Disallow: /admin/
+Disallow: /private/
+Crawl-delay: 1
